@@ -1,5 +1,4 @@
 import numpy as np
-
 def valeur_carte(carte: str) -> int:
     """
     Return the point value of a Blackjack card.
